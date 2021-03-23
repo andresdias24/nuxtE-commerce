@@ -1,0 +1,37 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/ads.js": "components/ads.js",
+    "components/featured.js": "components/featured.js",
+    "components/footer.js": "components/footer.js",
+    "components/hero-section.js": "components/hero-section.js",
+    "components/logo.js": "components/logo.js",
+    "components/nav.js": "components/nav.js",
+    "components/news-letter.js": "components/news-letter.js",
+    "components/products.js": "components/products.js",
+    "pages/all.js": "pages/all.js",
+    "pages/cart.js": "pages/cart.js",
+    "pages/index.js": "pages/index.js",
+    "pages/men.js": "pages/men.js",
+    "pages/products/_products.js": "pages/products/_products.js",
+    "pages/women.js": "pages/women.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/ads.js": "components/ads.js.map",
+    "components/featured.js": "components/featured.js.map",
+    "components/footer.js": "components/footer.js.map",
+    "components/hero-section.js": "components/hero-section.js.map",
+    "components/logo.js": "components/logo.js.map",
+    "components/nav.js": "components/nav.js.map",
+    "components/news-letter.js": "components/news-letter.js.map",
+    "components/products.js": "components/products.js.map",
+    "pages/all.js": "pages/all.js.map",
+    "pages/cart.js": "pages/cart.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/men.js": "pages/men.js.map",
+    "pages/products/_products.js": "pages/products/_products.js.map",
+    "pages/women.js": "pages/women.js.map",
+    "server.js": "server.js.map"
+  }
+}

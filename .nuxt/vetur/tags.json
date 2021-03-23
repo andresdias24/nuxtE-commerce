@@ -1,0 +1,26 @@
+{
+  "Ads": {
+    "description": "Auto imported from components/Ads.vue"
+  },
+  "Featured": {
+    "description": "Auto imported from components/Featured.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "HeroSection": {
+    "description": "Auto imported from components/HeroSection.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Nav": {
+    "description": "Auto imported from components/Nav.vue"
+  },
+  "NewsLetter": {
+    "description": "Auto imported from components/NewsLetter.vue"
+  },
+  "Products": {
+    "description": "Auto imported from components/Products.vue"
+  }
+}
